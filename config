@@ -78,8 +78,3 @@ keybind=ctrl+alt+n=close_window
 keybind=ctrl+shift+f11=toggle_fullscreen
 
 keybind=global:super+shift+t=toggle_quick_terminal
-
-keybind=shift+ctrl+w=ignore
-keybind=shift+ctrl+q=ignore
-keybind=shift+ctrl+o=ignore
-keybind=shift+ctrl+e=ignore
