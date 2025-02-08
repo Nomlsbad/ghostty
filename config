@@ -58,6 +58,8 @@ background-opacity=0.95
 command=bash
 initial-command=
 
+window-padding-x=0
+window-padding-y=0
 window-padding-color=
 window-inherit-working-directory=true
 window-theme=ghostty
